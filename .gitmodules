@@ -1,0 +1,6 @@
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
+[submodule "components/azure-iot"]
+	path = components/azure-iot
+	url = https://github.com/Azure/azure-iot-pal-esp32.git

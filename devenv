@@ -1,0 +1,6 @@
+# update path
+export PATH=$PATH:~/esp/xtensa-esp32-elf/bin
+# locate idf and extra components
+export PROJECT_DIR=~/Development/esp32-iot-template
+export IDF_PATH=$PROJECT_DIR/esp-idf
+export EXTRA_COMPONENT_DIRS=$PROJECT_DIR/components
